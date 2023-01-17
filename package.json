@@ -1,0 +1,23 @@
+{
+  "name": "aqualert-a-cross-platform-water-utility-supply-complaint-management-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jjmesia/Aqualert-A-Cross-Platform-Water-Utility-Supply-Complaint-Management-System.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jjmesia/Aqualert-A-Cross-Platform-Water-Utility-Supply-Complaint-Management-System/issues"
+  },
+  "homepage": "https://github.com/Jjmesia/Aqualert-A-Cross-Platform-Water-Utility-Supply-Complaint-Management-System#readme",
+  "dependencies": {
+    "firebase": "^9.15.0"
+  }
+}
